@@ -29,4 +29,4 @@ src="https://img.shields.io/twitter/follow/melektekin1789?logo=twitter&style=for
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/melektekin/KaiZ" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=melektekin&repo=KaiZ&title_color=ec4899&text_color=a855f7&icon_color=ef4444&bg_color=831843&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/melektekin/KaiZ/blob/main/README.md" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=melektekin&repo=KaiZ&title_color=ec4899&text_color=a855f7&icon_color=ef4444&bg_color=831843&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
