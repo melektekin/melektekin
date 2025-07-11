@@ -8,7 +8,7 @@ I love coding...
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [melektekin1789@gmail.com](mailto:melektekin1789@gmail.com)
-* 🧠  I'm learning to read a book :D
+* 🧠  I'm learning to code new things
 * 🤝  I'm open to collaborating on all projects
 * ⚡  Creative person :)
 
